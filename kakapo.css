@@ -1,0 +1,19 @@
+#main_header {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#back-btn {
+    padding: 10px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+#credits-btn{
+    padding: 10px;
+    font-size: 20px;
+    font-style:inherit;
+    border-radius: 5px;
+}

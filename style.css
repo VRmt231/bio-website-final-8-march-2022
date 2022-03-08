@@ -1,0 +1,26 @@
+#main_header {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#kakapo-btn {
+    padding: 10px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+#thorny-btn{
+    padding: 10px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+#credits-btn{
+    padding: 10px;
+    font-size: 20px;
+    font-style:inherit;
+    border-radius: 5px;
+}
